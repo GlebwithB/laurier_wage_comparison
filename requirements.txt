@@ -1,0 +1,6 @@
+selenium
+matplotlib
+numpy
+numpy
+requests
+bs4
